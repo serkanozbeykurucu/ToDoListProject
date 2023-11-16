@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "ToDoListProject",
+    "slug": "ToDoListProject",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "ToDoListProject"
+}
